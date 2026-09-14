@@ -4,7 +4,7 @@ Disclaimer: README criado com IA e revisado por um humano ao fim do projeto, err
 
 ## Vídeo de apresentação
 
-🎥 [Assista aqui](COLOQUE_O_LINK_DO_DRIVE_AQUI)
+🎥 [Assista aqui](https://drive.google.com/file/d/1JGVFxnc57ZuwTVOMqT3mrQGqm7fZNkyX/view?usp=drive_link)
 
 ## Sobre o projeto
 
